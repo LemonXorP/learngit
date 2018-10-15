@@ -1,7 +1,0 @@
-#include<cstdio>
-using namespace std;
-int main()
-{
-	printf("123321");
-	return 0;
-}
